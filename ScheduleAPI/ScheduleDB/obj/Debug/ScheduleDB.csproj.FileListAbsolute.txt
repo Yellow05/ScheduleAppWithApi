@@ -1,0 +1,8 @@
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleDB\bin\Debug\ScheduleDB.mdf
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleDB\bin\Debug\ScheduleDB_log.ldf
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleDB\bin\Debug\ScheduleDB.dll
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleDB\bin\Debug\ScheduleDB.pdb
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleDB\obj\Debug\ScheduleDB.csprojAssemblyReference.cache
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleDB\obj\Debug\ScheduleDB.csproj.CoreCompileInputs.cache
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleDB\obj\Debug\ScheduleDB.dll
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleDB\obj\Debug\ScheduleDB.pdb

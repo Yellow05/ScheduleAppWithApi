@@ -1,0 +1,14 @@
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.csprojAssemblyReference.cache
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.csproj.CoreCompileInputs.cache
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.RazorAssemblyInfo.cache
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.RazorAssemblyInfo.cs
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.AssemblyInfoInputs.cache
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.AssemblyInfo.cs
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\bin\Debug\netcoreapp2.1\ScheduleAPI.deps.json
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\bin\Debug\netcoreapp2.1\ScheduleAPI.runtimeconfig.json
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\bin\Debug\netcoreapp2.1\ScheduleAPI.runtimeconfig.dev.json
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\bin\Debug\netcoreapp2.1\ScheduleAPI.dll
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\bin\Debug\netcoreapp2.1\ScheduleAPI.pdb
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.dll
+D:\Projects\ScheduleWithApi\ScheduleAPI\ScheduleAPI\obj\Debug\netcoreapp2.1\ScheduleAPI.pdb
