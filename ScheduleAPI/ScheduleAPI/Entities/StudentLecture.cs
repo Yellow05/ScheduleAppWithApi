@@ -8,5 +8,11 @@ namespace ScheduleAPI.Entities
 
         public int LectureId { get; set; }
         public Lecture Lecture { get; set; }
+
+        public StudentLecture(int studentId, int lectureId)
+        {
+            StudentId = studentId;
+            LectureId = lectureId;
+        }
     }
 }

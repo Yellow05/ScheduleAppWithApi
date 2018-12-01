@@ -47,12 +47,13 @@ namespace ScheduleAPI.Controllers
 
         [HttpPost]
         [Route("/api/schedule/new-student")]
+        [EnableCors("AllowSpecificOrigin")] 
         public IActionResult CreateStudent(Student item)
         {
             _context.Students.Add(item);
             _context.SaveChanges();
 
-            return CreatedAtRoute("CreateStudent", new { id = item.StudentId }, item);
+            return Ok();
         }
 
         [HttpPut("{id}")]
@@ -109,6 +110,20 @@ namespace ScheduleAPI.Controllers
         {
             var students = _context.Students.Where(s => s.StudentLectures.Any(sl => sl.LectureId == lId));
             return students != null&& students.Count() > 0 ? Ok(students) : (IActionResult)NotFound();
+        }
+
+        [HttpPost]
+        [Route("/api/schedule/assign/{lId}/{sId}")]
+        [EnableCors("AllowSpecificOrigin")]
+        public IActionResult AssignStudent(int lId, int sId)
+        {
+            Student stud = _context.Students.Find(sId);
+            Lecture lect = _context.Lectures.Find(lId);
+            StudentLecture studentLecture = new StudentLecture(sId, lId);
+            _context.StudentLectures.Add(studentLecture);
+            _context.SaveChanges();
+
+            return Ok();
         }
     }
 }

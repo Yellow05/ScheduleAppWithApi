@@ -89,7 +89,6 @@ class CreateForm extends Component {
                     alert("Atsiprasome, ivyko serverio klaida");
                 });
         }
-        event.preventDefault();
     }
 
     render() {

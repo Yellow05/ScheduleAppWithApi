@@ -23,7 +23,6 @@ class CreateStudentForm extends Component {
     }
 
     handleSubmit(event) {
-        event.preventDefault();
         let requestBody = {
             studentName: this.state.studentName
         };
